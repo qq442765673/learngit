@@ -5,3 +5,5 @@ giao
 giao
 miaomiao
 woof skrskr
+giaogiao
+print
