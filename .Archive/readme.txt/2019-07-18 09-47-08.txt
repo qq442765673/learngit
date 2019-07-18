@@ -1,0 +1,15 @@
+giaogiao
+yigiwoli giaogiao
+giaogiao!
+giao
+giao
+miaomiao
+woof skrskr
+giaogiao
+print
+<<<<<<< HEAD
+this is a new branch && again
+=======
+this is a new branch
+change
+>>>>>>> reaturel
