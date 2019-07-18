@@ -7,4 +7,5 @@ miaomiao
 woof skrskr
 giaogiao
 print
-this is a new branch && again
+<<<<<<< HEAD
+Creating a new branch is quick and simple
